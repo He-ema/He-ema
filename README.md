@@ -20,6 +20,7 @@
 
 <a href="https://www.linkedin.com/in/ibrahim-osama-212529225/" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Osama-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/ibrahimOsama123" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Osama-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://he-ema.github.io/ibrahim_osama/" target="_blank"><img src="https://img.shields.io/badge/-MY%20CV-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=28b0ee)&nbsp;
