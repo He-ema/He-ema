@@ -1,42 +1,105 @@
+<div align="center">
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+# Ibrahim Osama
 
-<h3 align="center">
-  Welcome to Ibrahim Osama's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+### DevOps Engineer | Cloud & Automation
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70202&center=true&random=false&width=435&lines=Always+learning+new+things;Flutter+developer" alt="Typing SVG" /></a>
-</p> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Infrastructure+Automation;CI%2FCD+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+GitOps;Flutter+Developer+%7C+2%2B+Years" />
 
-- 🏢 I'm a Flutter developer
-- 👨‍💻 I'm a CS student at zagazig university.
-- 💬 Ask me about my experience with Dart, flutter, or anything related to mobile application development.
-
-
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/ibrahim-osama-212529225/" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Osama-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/ibrahimOsama123" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Osama-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://he-ema.github.io/ibrahim_osama/" target="_blank"><img src="https://img.shields.io/badge/-MY%20CV-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-### 🛠 &nbsp;Tech Stack
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=28b0ee)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=28b0ee)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=efa121)&nbsp;
-![Post](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=f76935)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
-
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=He-ema&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=He-ema&style=for-the-badge">
-</a>
+
+<a href="https://www.linkedin.com/in/ibrahim-osama-212529225/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://he-ema.github.io/ibrahim_osama/"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **DevOps Engineer & Computer Science student** focused on building automated, scalable, and reliable cloud infrastructure.
+
+Before transitioning into DevOps, I worked as a **Flutter Developer for 2+ years**, building and maintaining production mobile applications.
+
+* ☁️ Cloud & Infrastructure
+* 🔄 CI/CD Automation
+* 🐳 Containers & Kubernetes
+* 🏗️ Infrastructure as Code
+* 🚀 GitOps & DevSecOps
+* 📱 Flutter & Mobile Development
+
+---
+
+## 💼 Experience
+
+**Flutter Developer — BMS Online**
+`2 Years`
+
+Developed and maintained production Flutter applications, working with REST APIs, state management, backend integration, debugging, and application releases.
+
+**Flutter Developer — Saudi Arabia Company**
+`2 Projects`
+
+📖 **Rattel**
+An AI-powered Quran application that analyzes a reciter's voice and identifies the **Quran reciter**.
+
+🏷️ **Khabir El3rood**
+An application that helps users discover and find the **best offers and deals** around them.
+
+> **Development experience → DevOps → End-to-End Software Delivery**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker,kubernetes,terraform,aws,jenkins,ansible,flutter,dart" />
+
+<br><br>
+
+**CI/CD:** Jenkins · GitHub Actions
+**Cloud:** AWS · EC2 · EKS · RDS · S3
+**IaC:** Terraform
+**GitOps:** Argo CD
+**Security:** SonarQube · Trivy
+**Mobile:** Flutter · Dart · REST APIs
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### End-to-End DevOps CI/CD Pipeline
+
+**GitHub → Jenkins → SonarQube → Trivy → Docker → Registry → Argo CD → AWS EKS**
+
+Built an automated CI/CD pipeline that:
+
+* Builds and tests the application
+* Performs code quality & security analysis
+* Builds and pushes Docker images
+* Updates Kubernetes manifests through GitOps
+* Automatically deploys to **AWS EKS**
+
+<a href="https://github.com/He-ema/register-app"> <img src="https://img.shields.io/badge/Application-Repository-181717?style=for-the-badge&logo=github"/> </a> <a href="https://github.com/He-ema/gitops-register-app"> <img src="https://img.shields.io/badge/GitOps-Repository-181717?style=for-the-badge&logo=github"/> </a>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=He-ema&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-ema&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Build. Automate. Deploy. Scale.
+
+</div>
